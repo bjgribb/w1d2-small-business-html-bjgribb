@@ -1,4 +1,12 @@
 
+h1{
+    font-family: Luminari;
+}
+
+body {
+    background-image: linear-gradient(greenyellow, white);
+}
+
 .navigation {
     text-align: center;
     word-spacing: 100px;
