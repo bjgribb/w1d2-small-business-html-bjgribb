@@ -39,3 +39,13 @@ body {
 img {
     height: 200px; 
 }
+
+p::first-letter {
+    font-size: 25px;
+    font-family: Luminari;
+}
+
+li::first-letter {
+    font-size: 25px;
+    font-family: Luminari;
+}
